@@ -21,6 +21,4 @@ comment:
   require_changes: false
 
 ignore:
-  - "**/*.pb.go"
-  - "**/*mock.go"
-  - "**/mock.go"
+  - "*mock.go"

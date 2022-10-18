@@ -1,5 +1,5 @@
 # DyORM
-
+[![codecov](https://codecov.io/gh/sghaida/dyorm/branch/main/graph/badge.svg?token=L7ATQJC1CC)](https://codecov.io/gh/sghaida/dyorm)
 small and opinionated DynamoDB ORM, which quite easy to kick you start with DynamoDB calls. 
 this Lib implementing the following calls 
 
